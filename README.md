@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-composer require jxlwqq/echarts
+composer require snowsoft/echarts
 
 php artisan vendor:publish --tag=laravel-admin-echarts
 ```
